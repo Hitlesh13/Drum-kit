@@ -1,0 +1,163 @@
+body{
+    text-align: center;
+    background-color: #a06060;
+}
+
+h1{
+    font-size: 80px;
+    color: #dbedf3;
+    font-family: cursive;
+    text-shadow: 3px 0 #da0463;
+}
+
+.h{
+    background-image: url('drum.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.i{
+    background-image: url('drums-246840_1920.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.t{
+    background-image: url('drums-322726_1920.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.l{
+    background-image: url('drums-7056501_1920.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.e{
+    background-image: url('hamburg-1508783_1920.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.s{
+    background-image: url('music-1378224_1920.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.k{
+    background-image: url('timpani-7742836_1920.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.all{
+    margin: 10% auto;
+}
+
+.animation{
+    box-shadow: 0 3px 4px 0 #dbedf3;
+    opacity: 0.5;
+}
+
+.button{
+    outline: none;
+    border: 10px solid #404b69;
+    font-size: 80px;
+    font-family: 'arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #19fc42;
+    text-shadow: 3px 0 #dbedf3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+    background-color: azure;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+ body {
+    text-align: center;
+    background-color: #a06060;
+}
+
+h1 {
+    font-size: 5rem;
+    color: #DBEDF3;
+    font-family: cursive;
+    text-shadow: 3px 0 #DA0463;
+}
+
+.w {
+    background-image: url("drum-6358915_1920.jpg");
+}
+
+.a {
+    background-image: url("drum-6398709_1920.jpg");
+}
+
+.s {
+    background-image: url("drum-6485377_1920.jpg");
+}
+
+.d {
+    background-image: url("drum-6485383_1920.jpg");
+}
+
+.j {
+    background-image: url("drum-6601209_1920.jpg");
+}
+
+.k {
+    background-image: url("drums-4124237_1920.jpg");
+}
+
+.l {
+    background-image: url("tornado-drum-3781022_1920.jpg");
+}
+
+.all {
+    margin: 10% auto;
+}
+
+.animation {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+}
+
+.button {
+    outline: none;
+    border: 10px solid #404B69;
+    font-size: 5rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #DA0463;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+} */
